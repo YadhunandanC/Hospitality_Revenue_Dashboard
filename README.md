@@ -83,8 +83,8 @@ Includes anonymized hotel operational data:
 📍 Tumkur, Karnataka, India  
 
 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/yadhunandan-c)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yadhunandan-c/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YadhunandanC)  
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](yadhunandan010@gmail.com)
 
 ---
