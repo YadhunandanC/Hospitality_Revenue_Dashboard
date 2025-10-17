@@ -1,6 +1,6 @@
 # Hospitality_Revenue_Dashboard
 
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./Snapshot of the Dashboard.png)
 
 ---
 
@@ -83,11 +83,9 @@ Includes anonymized hotel operational data:
 📍 Tumkur, Karnataka, India  
 
 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/yadhunandan-c)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#)  
-[![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](#)
+[![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](yadhunandan010@gmail.com)
 
 ---
-
-### 📁 Repository Structure
 
