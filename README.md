@@ -1,6 +1,6 @@
 # Hospitality_Revenue_Dashboard
 
-![Dashboard Preview](./Snapshot of the Dashboard.png)
+![Dashboard Preview](Snapshot of the Dashboard.png)
 
 ---
 
