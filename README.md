@@ -1,7 +1,5 @@
 # Hospitality_Revenue_Dashboard
 
-![Dashboard Preview](https://github.com/YadhunandanC/Hospitality_Revenue_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
-
 ---
 
 ### 📊 Overview
@@ -88,4 +86,4 @@ Includes anonymized hotel operational data:
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](yadhunandan010@gmail.com)
 
 ---
-
+![Dashboard Preview](https://github.com/YadhunandanC/Hospitality_Revenue_Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
